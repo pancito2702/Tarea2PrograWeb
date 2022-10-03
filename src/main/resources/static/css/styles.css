@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+}
+
+
+.head {
+    width: 100%;
+    background-color: #1A2611;
+    height: 100px;
+}
+
+
+.nav {
+    height: 40px;
+    background-color: black;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    padding: 10px 10px 0px;
+}
+
+.nav-links {
+    color: white;
+    text-decoration: none;   
+}
+
+.nav-links:hover {
+    color: brown;
+}
+
+.nav-item {
+    padding-right: 20px;
+    font-family: serif;
+    color: white;
+}
+
+.h1 {
+    text-align: center;
+    color: white;
+    padding: 50px 50px;
+    font-family: monospace;
+    font-size: 20px
+}
+
+.section {
+    height: 1550px;
+    background-color: #617322;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 15%
+}
+
+
+.section-header-center {
+    margin: 25px;
+}
+
+
+.h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.figcaption {
+    margin: 5px;
+    text-align: center;
+}
+
+.h3 {
+    margin: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.iframe-caption {
+    margin: 5px;
+    text-align: center;
+}
+
+.footer {
+    margin: 25px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+#form {
+    text-align: center;
+}
+
+#form-radio {
+    margin-right: 80px;
+}
+
+
+input {
+    margin-bottom: 25px;
+}
